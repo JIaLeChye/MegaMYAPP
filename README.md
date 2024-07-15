@@ -1,8 +1,11 @@
-# MegaGOVMY
+# MegaMYAPP
 Throughout my research, I found out that there is not an app or any website that is built for access all the API by the openDOSM (If there is then Maybe I overlooked it)
 Thus, here I am trying to collect all the API releases by the openDOSM. 
 ##### MAIN FOCUS ###### 
 - My main focus will be on Public transportation.
+  - Train service
+  - Bus Service
+  - AND MORE (will do research when I'm FREE!) 
 
 
 **This is a huge project. So the progress will be SLOWWWWWWW!** 
