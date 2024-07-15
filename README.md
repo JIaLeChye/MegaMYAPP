@@ -13,6 +13,7 @@ Thus, here I am trying to collect all the API releases by the openDOSM.
 
  
  **FYI: I currently have 0 knowledge about building applications and integrating with APIs.* 
- **
+
+ ##AH YES AS YOU CAN SEE THIS REPO IS STILL EMPTY BECAUSE I'M STILL FIGURING OUT HOW IT WORKS... 
 
 A web@application that combines all the APIs from the openDOSM
